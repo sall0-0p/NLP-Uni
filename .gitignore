@@ -1,1 +1,5 @@
 /.venv
+/clustering
+/ngrams
+/topic_modelling
+/wordclouds
